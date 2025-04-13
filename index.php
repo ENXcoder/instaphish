@@ -1,5 +1,5 @@
 <?php 
- include "php/auth.php";
+ include "auth.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
